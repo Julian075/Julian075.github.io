@@ -14,15 +14,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Office 5D25</p>
+      <p>19 place Marguerite Perey</p>
+      <p>91120 Palaiseau, France </p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Office 5D25</p>
+      <p>19 place Marguerite Perey</p>
+      <p>91120 Palaiseau, France </p>
 ---
