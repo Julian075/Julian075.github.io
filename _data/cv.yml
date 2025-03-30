@@ -10,11 +10,11 @@
     - name: Languages
       value: Spanish (Native), English (Professional Working Proficiency, B2)
     - name: Profiles
-      value: 
-        - [Google Scholar](https://scholar.google.com/citations?hl=es&user=GA5S2eAAAAAJ)
-        - [GitHub](https://github.com/Julian075)
-        - [ResearchGate](https://www.researchgate.net/profile/Julian-Santamaria-5)
-        - [ORCID](https://orcid.org/0009-0007-7287-5761)
+      value: >
+        [Google Scholar](https://scholar.google.com/citations?hl=es&user=GA5S2eAAAAAJ),
+        [GitHub](https://github.com/Julian075),
+        [ResearchGate](https://www.researchgate.net/profile/Julian-Santamaria-5),
+        [ORCID](https://orcid.org/0009-0007-7287-5761)
 
 - title: Education
   type: time_table
@@ -87,4 +87,3 @@
   type: list
   contents:
     - <u>Hobbies:</u> Nature observation, photography, scientific outreach.
-
