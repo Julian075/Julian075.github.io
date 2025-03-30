@@ -405,7 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-started-my-master-s-in-engineering-at-universidad-de-antioquia-working-on-domain-adaptation-and-out-of-distribution-generalization-for-wildlife-monitoring-the-research-is-supervised-by-ph-dclaudia-victoria-and-ph-d-jhony-h-giraldo",
+            },},{id: "news-i-started-my-master-s-in-engineering-at-universidad-de-antioquia-working-on-domain-adaptation-and-out-of-distribution-generalization-for-wildlife-monitoring-the-research-is-supervised-by-ph-d-claudia-victoria-and-ph-d-jhony-h-giraldo",
           title: 'I started my Master’s in Engineering at Universidad de Antioquia, working on domain...',
           description: "",
           section: "News",},{id: "news-our-paper-audio-vs-visual-approach-to-monitor-the-critically-endangered-species-atlapetes-blancae-developing-deep-learning-models-with-limited-data-was-presented-at-the-iaria-annual-congress-on-frontiers-in-science-technology-services-and-applications-2024",
