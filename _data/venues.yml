@@ -1,7 +1,7 @@
-"WACV":
-  url: https://wacv2025.thecvf.com/
-  color: "#e95420"
-
-"IARIA":
-  url: https://www.iaria.org/conferences.html
-  color: "#008080"
+contents:
+  - "WACV":
+      url: https://wacv2025.thecvf.com/
+      color: "#e95420"
+  - "IARIA":
+      url: https://www.iaria.org/conferences.html
+      color: "#008080"
