@@ -36,4 +36,4 @@ I am a Master's student in Engineering at [Universidad de Antioquia](https://ude
 
 Currently, I am conducting a research internship at [Télécom Paris](https://www.telecom-paris.fr/) (Institut Polytechnique de Paris), supervised by Ph.D. [Jhony H. Giraldo](https://jhonygiraldo.github.io/), where I explore domain adaptation techniques in the context of biodiversity monitoring.
 
-I hold a Bachelor's degree in Electronics Engineering from Universidad de Antioquia, where I graduated with academic distinction. Throughout my academic journey, I have contributed to open-source projects and coauthored peer-reviewed papers published at international venues such as WACV and IARIA.
+I hold a Bachelor's degree in Electronics Engineering from [Universidad de Antioquia](https://udea.edu.co), where I graduated with academic distinction. Throughout my academic journey, I have contributed to open-source projects and coauthored peer-reviewed papers published at international venues such as WACV and IARIA.
