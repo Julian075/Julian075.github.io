@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -17,14 +17,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
+  items:
+    - date: 2025-01-01
+      title: "🎤 WACV 2025 oral presentation accepted!"
+      content: "Our paper *CATALOG: A Camera Trap Language-Guided Contrastive Learning Model* was accepted as an **oral presentation** at WACV 2025 (top 8%)."
+      link: https://openaccess.thecvf.com/content/WACV2025/papers/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.pdf
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
 I am a Master's student in Engineering at Universidad de Antioquia. My work focuses on computer vision, specifically on domain adaptation and out-of-distribution generalization for wildlife monitoring. I develop deep learning methods tailored to species recognition using limited and geographically biased data, and I am particularly interested in adapting foundation models to real-world ecological challenges.
