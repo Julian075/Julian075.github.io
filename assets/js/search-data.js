@@ -471,7 +471,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Julian-Santamaria-5/", "_blank");
+          window.open("https://www.researchgate.net/profile/www.researchgate.net/profile/Julian-Santamaria-5/", "_blank");
         },
       },{
         id: 'social-scholar',
