@@ -32,7 +32,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Master's student in Engineering at Universidad de Antioquia. My work focuses on computer vision, specifically on domain adaptation and out-of-distribution generalization for wildlife monitoring. I develop deep learning methods tailored to species recognition using limited and geographically biased data, and I am particularly interested in adapting foundation models to real-world ecological challenges.
+I am a Master's student in Engineering at [Universidad de Antioquia](https://udea.edu.co). My work focuses on computer vision, specifically on domain adaptation and out-of-distribution generalization for wildlife monitoring. I develop deep learning methods tailored to species recognition using limited and geographically biased data, and I am particularly interested in adapting foundation models to real-world ecological challenges.
 
 Currently, I am conducting a research internship at Télécom Paris (Institut Polytechnique de Paris), supervised by PhD. [Jhony H. Giraldo](https://jhonygiraldo.github.io/), where I explore domain adaptation techniques in the context of biodiversity monitoring.
 
