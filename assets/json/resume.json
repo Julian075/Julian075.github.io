@@ -54,10 +54,7 @@
       "startDate": "2022-01-01",
       "endDate": "",
       "summary": "Research on adapting foundation models for wildlife species recognition, including endangered species monitoring.",
-      "highlights": [
-        "Machine learning for monitoring Atlapetes blancae (2022–2023)",
-        "Foundation model adaptation research (2024–Present)"
-      ]
+      "highlights": ["Machine learning for monitoring Atlapetes blancae (2022–2023)", "Foundation model adaptation research (2024–Present)"]
     },
     {
       "name": "Universidad de Antioquia",
@@ -66,10 +63,7 @@
       "startDate": "2021-01-01",
       "endDate": "",
       "summary": "Academic support for undergraduate courses in digital electronics and computer science.",
-      "highlights": [
-        "Digital Electronics Fundamentals (2021–2023)",
-        "Computer Science I (2024–Present)"
-      ]
+      "highlights": ["Digital Electronics Fundamentals (2021–2023)", "Computer Science I (2024–Present)"]
     }
   ],
   "education": [
@@ -134,35 +128,19 @@
       "name": "Computer Vision",
       "level": "Advanced",
       "icon": "",
-      "keywords": [
-        "Domain Adaptation",
-        "Wildlife Monitoring",
-        "Foundation Models",
-        "Contrastive Learning",
-        "Multimodal Learning"
-      ]
+      "keywords": ["Domain Adaptation", "Wildlife Monitoring", "Foundation Models", "Contrastive Learning", "Multimodal Learning"]
     },
     {
       "name": "Programming",
       "level": "Proficient",
       "icon": "",
-      "keywords": [
-        "Python",
-        "Matlab",
-        "C/C++"
-      ]
+      "keywords": ["Python", "Matlab", "C/C++"]
     },
     {
       "name": "Frameworks & Tools",
       "level": "Advanced",
       "icon": "",
-      "keywords": [
-        "PyTorch",
-        "OpenCV",
-        "Transformers (HuggingFace)",
-        "Weights & Biases",
-        "LaTeX"
-      ]
+      "keywords": ["PyTorch", "OpenCV", "Transformers (HuggingFace)", "Weights & Biases", "LaTeX"]
     }
   ],
   "languages": [
@@ -181,12 +159,7 @@
     {
       "name": "Research",
       "icon": "",
-      "keywords": [
-        "Out-of-Distribution Generalization",
-        "Domain Adaptation",
-        "Multimodal Learning",
-        "Graph Neural Networks"
-      ]
+      "keywords": ["Out-of-Distribution Generalization", "Domain Adaptation", "Multimodal Learning", "Graph Neural Networks"]
     }
   ],
   "references": [],
@@ -237,4 +210,3 @@
     }
   ]
 }
-
