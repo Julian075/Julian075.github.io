@@ -1,7 +1,14 @@
 giraldo:
-  - firstname: ["Jhony H.", "Jhony", "J. H."]
-    url: https://scholar.google.com/citations?user=iwzmGKwAAAAJ&hl=es
+  - firstname:
+      - "Jhony H."
+      - "Jhony"
+      - "J. H."
+    url: "https://scholar.google.com/citations?user=iwzmGKwAAAAJ&hl=es"
 
 isaza:
-  - firstname: ["Claudia Victoria", "Claudia V.", "Claudia", "C. V."]
-    url: https://scholar.google.com/citations?user=YIjG09oAAAAJ&hl=es
+  - firstname:
+      - "Claudia Victoria"
+      - "Claudia V."
+      - "Claudia"
+      - "C. V."
+    url: "https://scholar.google.com/citations?user=YIjG09oAAAAJ&hl=es"
