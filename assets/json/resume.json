@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Julian D. Santamaria P",
-    "label": "MSc Student in Engineering | Computer Vision Researcher",
+    "label": "M.Sc. Student in Engineering | Computer Vision Researcher",
     "image": "",
     "email": "julian.santamaria@udea.edu.co",
     "phone": "",
     "url": "https://www.linkedin.com/in/julian-david-santamaria-pabon/",
-    "summary": "MSc student and junior researcher focused on domain adaptation and out-of-distribution generalization for wildlife monitoring. Experienced in developing deep learning models with limited data and foundation model adaptation for computer vision tasks.",
+    "summary": "M.Sc. student and junior researcher focused on domain adaptation and out-of-distribution generalization for wildlife monitoring. Experienced in developing deep learning models with limited data and foundation model adaptation for computer vision tasks.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -78,7 +78,7 @@
       "location": "Medellín, Colombia",
       "url": "https://udea.edu.co",
       "area": "Master of Science in Engineering",
-      "studyType": "MSc",
+      "studyType": "M.Sc.",
       "startDate": "2024-01-01",
       "endDate": "2025-12-01",
       "score": "",
@@ -89,7 +89,7 @@
       "location": "Medellín, Colombia",
       "url": "https://udea.edu.co",
       "area": "Electronics Engineering",
-      "studyType": "BSc",
+      "studyType": "B.Sc.",
       "startDate": "2018-02-01",
       "endDate": "2023-12-01",
       "score": "GPA 4.16/5",
