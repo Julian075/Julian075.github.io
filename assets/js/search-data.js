@@ -405,13 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-started-my-master-s-in-engineering-at-universidad-de-antioquia-working-on-domain-adaptation-and-out-of-distribution-generalization-for-wildlife-monitoring-the-research-is-supervised-by-claudia-victoria-and-jhony-h-giraldo-and-explores-the-use-of-foundation-models-and-computer-vision-to-monitor-endangered-species-in-the-wild",
+          title: 'I started my Master’s in Engineering at Universidad de Antioquia, working on domain...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-audio-vs-visual-approach-to-monitor-the-critically-endangered-species-atlapetes-blancae-was-presented-at-the-iaria-annual-congress-on-frontiers-in-science-technology-services-and-applications-2024-the-work-compares-deep-learning-methods-using-limited-audio-and-visual-data-for-monitoring-endangered-species-in-the-wild",
+          title: 'Our paper “Audio vs. Visual Approach to Monitor the Critically Endangered Species Atlapetes...',
           description: "",
           section: "News",},{id: "news-our-paper-catalog-a-camera-trap-language-guided-contrastive-learning-model-has-been-selected-as-an-oral-presentation-top-8-at-the-ieee-cvf-winter-conference-on-applications-of-computer-vision-wacv-2025",
           title: 'Our paper “CATALOG: A Camera Trap Language-guided Contrastive Learning Model” has been selected...',
