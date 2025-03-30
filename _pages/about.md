@@ -32,8 +32,8 @@ latest_posts:
   limit: 3
 ---
 
-I am a Master's student in Engineering at [Universidad de Antioquia](https://udea.edu.co), co-advised by Claudia Isaza and Jhony H. Giraldo. My work focuses on computer vision, specifically on domain adaptation and out-of-distribution generalization for wildlife monitoring. I develop deep learning methods tailored to species recognition using limited and geographically biased data, and I am particularly interested in adapting foundation models to real-world ecological challenges.
+I am a Master's student in Engineering at [Universidad de Antioquia](https://udea.edu.co), co-advised by Ph.D. [Claudia Isaza](https://scholar.google.com/citations?user=YIjG09oAAAAJ&hl=es) and Ph.D. [Jhony H. Giraldo](https://jhonygiraldo.github.io/). My work focuses on computer vision, specifically on domain adaptation and out-of-distribution generalization for wildlife monitoring. I develop deep learning methods tailored to species recognition using limited and geographically biased data, and I am particularly interested in adapting foundation models to real-world ecological challenges.
 
-Currently, I am conducting a research internship at [Télécom Paris](https://www.telecom-paris.fr/) (Institut Polytechnique de Paris), supervised by PhD. [Jhony H. Giraldo](https://jhonygiraldo.github.io/), where I explore domain adaptation techniques in the context of biodiversity monitoring.
+Currently, I am conducting a research internship at [Télécom Paris](https://www.telecom-paris.fr/) (Institut Polytechnique de Paris), supervised by Ph.D. [Jhony H. Giraldo](https://jhonygiraldo.github.io/), where I explore domain adaptation techniques in the context of biodiversity monitoring.
 
 I hold a Bachelor's degree in Electronics Engineering from Universidad de Antioquia, where I graduated with academic distinction. Throughout my academic journey, I have contributed to open-source projects and coauthored peer-reviewed papers published at international venues such as WACV and IARIA.
