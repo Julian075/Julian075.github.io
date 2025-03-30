@@ -19,6 +19,7 @@ nav_order: 5
       <p><strong>Funding:</strong> 10,000 A100 GPU-Hours</p>
       <p><strong>Duration:</strong> January 2025 – June 2025</p>
     </li>
+
   </ul>
 
 </div>
