@@ -1,200 +1,240 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Julian D. Santamaria P",
+    "label": "MSc Student in Engineering | Computer Vision Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "julian.santamaria@udea.edu.co",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/julian-david-santamaria-pabon/",
+    "summary": "MSc student and junior researcher focused on domain adaptation and out-of-distribution generalization for wildlife monitoring. Experienced in developing deep learning models with limited data and foundation model adaptation for computer vision tasks.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Medellín",
+      "countryCode": "CO",
+      "region": "Antioquia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "JulianSantamaria",
+        "url": "https://scholar.google.com/citations?user=tArMnfoAAAAJ&hl=es&authuser=1"
+      },
+      {
+        "network": "GitHub",
+        "username": "Julian075",
+        "url": "https://github.com/Julian075"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Julian-Santamaria-5",
+        "url": "https://www.researchgate.net/profile/Julian-Santamaria-5"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0007-7287-5761",
+        "url": "https://orcid.org/0009-0007-7287-5761"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Télécom Paris, Institut Polytechnique de Paris",
+      "position": "Intern",
+      "url": "https://www.telecom-paris.fr",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Research on domain adaptation in computer vision for biodiversity monitoring.",
+      "highlights": ["Supervised by Dr. Jhony H. Giraldo"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "SISTEMIC Research Group, Universidad de Antioquia",
+      "position": "Junior Researcher",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "summary": "Research on adapting foundation models for wildlife species recognition, including endangered species monitoring.",
+      "highlights": [
+        "Machine learning for monitoring Atlapetes blancae (2022–2023)",
+        "Foundation model adaptation research (2024–Present)"
+      ]
+    },
+    {
+      "name": "Universidad de Antioquia",
+      "position": "Teaching Assistant",
+      "url": "https://udea.edu.co",
+      "startDate": "2021-01-01",
+      "endDate": "",
+      "summary": "Academic support for undergraduate courses in digital electronics and computer science.",
+      "highlights": [
+        "Digital Electronics Fundamentals (2021–2023)",
+        "Computer Science I (2024–Present)"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Universidad de Antioquia",
+      "location": "Medellín, Colombia",
+      "url": "https://udea.edu.co",
+      "area": "Engineering",
+      "studyType": "MSc",
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Antioquia",
+      "location": "Medellín, Colombia",
+      "url": "https://udea.edu.co",
+      "area": "Electronics Engineering",
+      "studyType": "BSc",
+      "startDate": "2018-02-01",
+      "endDate": "2023-12-01",
+      "score": "GPA 4.16/5",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Academic Excellence Award",
+      "date": "2018-06-01",
+      "awarder": "Universidad de Antioquia",
+      "url": "",
+      "summary": "Highest-performing first-level student in the Electronics Engineering program."
+    },
+    {
+      "title": "Academic Excellence Award",
+      "date": "2023-06-01",
+      "awarder": "Universidad de Antioquia",
+      "url": "",
+      "summary": "Highest-performing eighth-level student in the Electronics Engineering program."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "CATALOG: A Camera Trap Language-guided Contrastive Learning Model",
+      "publisher": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025",
+      "releaseDate": "2025-01-01",
+      "url": "https://openaccess.thecvf.com/content/WACV2025/papers/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.pdf",
+      "summary": "Oral presentation (top 8%) at WACV 2025. Proposes a contrastive learning model for camera trap image understanding."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Audio vs. Visual Approach to Monitor the Critically Endangered Species Atlapetes blancae",
+      "publisher": "IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications, 2024",
+      "releaseDate": "2024-01-01",
+      "url": "https://www.thinkmind.org/articles/iaria_congress_2024_2_90_50050.pdf",
+      "summary": "Compares deep learning approaches using limited audio and visual data for endangered species monitoring."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Computer Vision",
+      "level": "Advanced",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Domain Adaptation",
+        "Wildlife Monitoring",
+        "Foundation Models",
+        "Contrastive Learning",
+        "Multimodal Learning"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Proficient",
+      "icon": "",
+      "keywords": [
+        "Python",
+        "Matlab",
+        "C/C++"
+      ]
+    },
+    {
+      "name": "Frameworks & Tools",
+      "level": "Advanced",
+      "icon": "",
+      "keywords": [
+        "PyTorch",
+        "OpenCV",
+        "Transformers (HuggingFace)",
+        "Weights & Biases",
+        "LaTeX"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Professional Working Proficiency (B2, IELTS 5.5)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Out-of-Distribution Generalization",
+        "Domain Adaptation",
+        "Multimodal Learning",
+        "Graph Neural Networks"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "WildIng: A Wildlife Image Invariant Representation Model",
+      "summary": "Model under review for geographical domain shift in wildlife imagery.",
+      "highlights": ["Submitted to IJCV"],
+      "startDate": "2024-12-01",
+      "endDate": "",
+      "url": ""
+    }
+  ],
+  "volunteer": [],
+  "publicationsUnderReview": [
+    {
+      "name": "WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift",
+      "publisher": "Submitted to International Journal of Computer Vision (IJCV)",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Aims to address domain shift issues in wildlife imagery using invariant representations."
+    }
+  ],
+  "fellowships": [
+    {
+      "title": "NVIDIA Academic Grant",
+      "date": "2025-01-01",
+      "awarder": "NVIDIA",
+      "summary": "10,000 A100 GPU-hours granted for a project bridging foundation models and camera trap image recognition."
+    },
+    {
+      "title": "Instructor Student Scholarship",
+      "date": "2024-01-01",
+      "awarder": "Universidad de Antioquia",
+      "summary": "Funding for MSc research on automatic animal identification using foundation models. (€20,450)"
+    },
+    {
+      "title": "Colombian Government Undergraduate Scholarship",
+      "date": "2018-01-01",
+      "awarder": "Ministerio de Educación Nacional",
+      "summary": "Scholarship for undergraduate studies in Electronic Engineering. (€17,296)"
+    }
+  ],
+  "service": [
+    {
+      "name": "Reviewer",
+      "organization": "EURASIP Journal on Image and Video Processing"
     }
   ]
 }
+
