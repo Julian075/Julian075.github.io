@@ -34,7 +34,7 @@ nav_order: 5
       <p><strong>Funding:</strong> €400</p>
       <p><strong>Purpose:</strong> Support for presenting at the LatinX in AI Workshop during ICCV 2023</p>
     </li>
+
   </ul>
 
 </div>
-
