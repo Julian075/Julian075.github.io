@@ -14,15 +14,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Office 5D25</p>
-      <p>19 place Marguerite Perey</p>
-      <p>91120 Palaiseau, France </p>
+      <p>Office 18-333</p>
+      <p>Cl. 67 #53-108</p>
+      <p>050010 Medellín, Colombia </p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Office 5D25</p>
-      <p>19 place Marguerite Perey</p>
-      <p>91120 Palaiseau, France </p>
+      <p>Office 18-333</p>
+      <p>Cl. 67 #53-108</p>
+      <p>050010 Medellín, Colombia </p>
 ---
