@@ -1,0 +1,6 @@
+assume_extension: true        # lo mismo que usa al-folio
+check_html: true
+
+# ⬇️ aquí permitimos los 403
+http_status_ignore:
+  - 403
