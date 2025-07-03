@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 5D20</p>
-    <p>19 place Marguerite Perey</p>
-    <p>91120 Palaiseau, France</p>
+    <p>Office 18-333</p>
+    <p>Cl. 67 #53-108</p>
+    <p>050010 Medellín, Colombia</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
