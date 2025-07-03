@@ -1,0 +1,5 @@
+# lychee.toml  ── acepta 403 como válido
+accept = ["200..=299", "403"]
+
+# Opcional: silencia detalles (error→warn)
+verbose = "warn"
