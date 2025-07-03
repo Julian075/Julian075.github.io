@@ -43,8 +43,8 @@
       "position": "Intern",
       "url": "https://www.telecom-paris.fr",
       "startDate": "2025-01-01",
-      "endDate": "",
-      "summary": "Research on domain adaptation in computer vision for biodiversity monitoring.",
+      "endDate": "2025-06-30",
+      "summary": "Research on domain generalization in computer vision for biodiversity monitoring.",
       "highlights": ["Supervised by PhD. Jhony H. Giraldo"]
     },
     {
