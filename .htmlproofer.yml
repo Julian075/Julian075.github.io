@@ -1,0 +1,9 @@
+assume_extension: true
+check_html: true
+
+# Ignora errores 403, típicos de Google Scholar y StackOverflow en GitHub Actions
+http_status_ignore:
+  - 403
+
+# Opcional: muestra advertencia, pero no falla el deploy
+log_level: warn
