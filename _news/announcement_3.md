@@ -1,9 +1,14 @@
 ---
 layout: post
-title: IARIA 2024 Presentation!
-date: 2024-06-30
+title: New Research Internship at Uniandes
+date: 2025-07-10
 inline: true
 related_posts: false
 ---
 
-Our paper “[Audio vs. Visual Approach to Monitor the Critically Endangered Species _Atlapetes blancae_: Developing Deep Learning Models with Limited Data](https://www.thinkmind.org/articles/iaria_congress_2024_2_90_50050.pdf)” was presented at the **IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications** 2024! 🐦🎧📷
+I have recently started a **research internship** at the Universidad de los Andes, Colombia 🇨🇴, under the supervision of **PhD. Pablo Arbeláez**. 🧠🌿
+
+**Project:** *SPARROW* — an AI tool to monitor and safeguard biodiversity in the world’s most untouched ecosystems.
+
+📍 Bogotá, Colombia  
+📅 **Jul 2025 – Present**
