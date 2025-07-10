@@ -10,5 +10,4 @@ I have recently started a **research internship** at the Universidad de los Ande
 
 **Project:** *SPARROW* — an AI tool to monitor and safeguard biodiversity in the world’s most untouched ecosystems.
 
-📍 Bogotá, Colombia  
-📅 **Jul 2025 – Present**
+📍 Bogotá, Colombia
