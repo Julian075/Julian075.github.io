@@ -405,7 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-excited-to-begin-a-research-internship-at-télécom-paris-part-of-the-institut-polytechnique-de-paris-under-the-supervision-of-dr-jhony-h-giraldo-over-the-next-six-months-i-will-be-working-on-domain-generalization-for-computer-vision-models-applied-to-biodiversity-monitoring-paris-france",
+            },},{id: "news-excited-to-begin-a-research-internship-at-télécom-paris-part-of-the-institut-polytechnique-de-paris-under-the-supervision-of-phd-jhony-h-giraldo-over-the-next-six-months-i-will-be-working-on-domain-generalization-for-computer-vision-models-applied-to-biodiversity-monitoring-paris-france",
           title: 'Excited to begin a research internship at Télécom Paris, part of the Institut...',
           description: "",
           section: "News",},{id: "news-our-paper-catalog-a-camera-trap-language-guided-contrastive-learning-model-has-been-selected-as-an-oral-presentation-top-8-at-the-ieee-cvf-winter-conference-on-applications-of-computer-vision-wacv-2025",
