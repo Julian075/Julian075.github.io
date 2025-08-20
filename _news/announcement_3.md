@@ -6,8 +6,8 @@ inline: true
 related_posts: false
 ---
 
-I have recently started a **research internship** at the Universidad de los Andes, Colombia 🇨🇴, under the supervision of **PhD. Pablo Arbeláez**. 🧠🌿
+I have recently started as a Visiting Research Scholar at the Universidad de los Andes 🇨🇴, working under the supervision of Dr. Pablo Arbeláez.
 
-**Project:** *SPARROW* — an AI tool to monitor and safeguard biodiversity in the world’s most untouched ecosystems.
+**Project:** *Wildlife segmentation.
 
 📍 Bogotá, Colombia
