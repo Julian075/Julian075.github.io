@@ -2,19 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Julian D. Santamaria P
+      value: Julian D. Santamaria
     - name: Email
       value: julian.santamaria@udea.edu.co
-    - name: Location
-      value: Medellín, Antioquia, Colombia
-    - name: Languages
-      value: Spanish (Native), English (Professional Working Proficiency, B2)
-    - name: Profiles
-      value: >
-        [Google Scholar](https://scholar.google.com/citations?hl=es&user=GA5S2eAAAAAJ),
-        [GitHub](https://github.com/Julian075),
-        [ResearchGate](https://www.researchgate.net/profile/Julian-Santamaria-5),
-        [ORCID](https://orcid.org/0009-0007-7287-5761)
+    - name: Website
+      value: [julian075.github.io](https://julian075.github.io)
 
 - title: Education
   type: time_table
@@ -23,68 +15,110 @@
       institution: Universidad de Antioquia, Medellín, Colombia
       year: 2024 - 2025
       description:
-        - Funded by instructor scholarship to support research on foundation models for automatic animal identification.
+        - Thesis: *Integration of foundation models for automatic animal identification*.
+        - Funded by Estudiante Instructor Scholarship (€20,450).
     - title: Bachelor of Science in Electronics Engineering
       institution: Universidad de Antioquia, Medellín, Colombia
       year: 2018 - 2023
       description:
-        - GPA: 4.16/5.
+        - GPA: 4.16 / 5.00
+        - Thesis: *Audio vs. Visual Approach to Monitor the Critically Endangered Species Atlapetes blancae*.
         - Focus on embedded systems, signal processing, and machine learning.
 
 - title: Experience
   type: time_table
   contents:
+    - title: Visiting Research Scholar
+      institution: CinfonIA, Universidad de los Andes, Colombia
+      year: Jul 2025 – Aug 2025
+      description:
+        - Research on wildlife image segmentation.
+        - Supervised by Prof. Pablo Arbelaez.
     - title: Intern
-      institution: Télécom Paris, Institut Polytechnique de Paris
-      year: 2025
+      institution: Télécom Paris, Institut Polytechnique de Paris, France
+      year: Jan 2025 – Jun 2025
       description:
         - Research on domain adaptation in computer vision for biodiversity monitoring.
-        - Supervised by PhD. Jhony H. Giraldo.
+        - Supervised by Dr. Jhony H. Giraldo.
+    - title: Researcher
+      institution: SISTEMIC Research Group, Universidad de Antioquia
+      year: May 2024 – Present
+      description:
+        - Acoustic analysis to study forest transformation in Colombia.
     - title: Junior Researcher
       institution: SISTEMIC Research Group, Universidad de Antioquia
-      year: 2022 - Present
+      year: Apr 2021 – Nov 2023
       description:
-        - Machine learning for endangered species monitoring.
-        - Bridging foundation models and species recognition.
+        - Development of machine learning tools for acoustic ecology.
     - title: Teaching Assistant
       institution: Universidad de Antioquia
-      year: 2021 - Present
+      year: 2021 – Present
       description:
-        - Academic support for "Computer Science I" and "Digital Electronics Fundamentals".
+        - Support for “Computer Science I” (2024–Present).
+        - Tutoring for “Digital Electronics Fundamentals” (2021–2023).
 
-- title: Open Source Projects
-  type: time_table
+- title: Publications
+  type: list
   contents:
-    - title: <a href="https://github.com/Julian075">GitHub Contributions</a>
-      year: 2021-now
-      description: Repositories and experiments on domain adaptation, wildlife monitoring, and deep learning models.
+    - "**CATALOG: A Camera Trap Language-guided Contrastive Learning Model**  
+      *Julian D. Santamaria, Claudia Isaza, Jhony H. Giraldo*  
+      IEEE/CVF WACV 2025 – Oral Presentation (Top ~8%)  
+      [[PDF]](https://openaccess.thecvf.com/content/WACV2025/papers/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.pdf)"
+    - "**Audio vs. Visual Approach to Monitor the Critically Endangered Species Atlapetes blancae**  
+      *Julian D. Santamaria, Jhony H. Giraldo, Angelica Diaz-Pulido, Claudia Isaza*  
+      IARIA Congress on Frontiers in Science and Technology, 2024  
+      [[PDF]](https://www.thinkmind.org/articles/iaria_congress_2024_2_90_50050.pdf)"
+    - "**WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift**  
+      Submitted to the International Journal of Computer Vision (IJCV)"
+
+- title: Poster Presentations
+  type: list
+  contents:
+    - "*Audio and Video Analysis for Monitoring Atlapetes blancae*  
+      ICCV 2023 — LatinX in AI Workshop"
 
 - title: Grants and Fellowships
   type: time_table
   contents:
     - year: 2025
       items:
-        - NVIDIA Academic Grant — 10,000 A100 GPU-hours for research on foundation models and camera trap image recognition.
+        - NVIDIA Academic Grant — 10,000 A100 GPU-hours for research on camera trap image recognition.
     - year: 2024
       items:
-        - Instructor Student Scholarship — Funding for MSc research on automatic animal identification using foundation models (€20,450).
+        - Estudiante Instructor Scholarship — Funding for MSc thesis on animal identification using foundation models (€20,450).
     - year: 2023
       items:
-        - CV Foundation Travel Grant — €1,000 scholarship to support travel and attendance at ICCV 2023.
-        - LatinX in AI Travel Scholarship — €400 grant to support presentation at the LatinX in AI Workshop during ICCV 2023.
+        - CV Foundation Travel Grant — €1,000 for ICCV 2023.
+        - LatinX in AI Scholarship — €400 for ICCV 2023 workshop.
     - year: 2018
       items:
-        - Colombian Government Undergraduate Scholarship — Funding for undergraduate studies in Electronic Engineering (€17,296).
+        - Colombian Government Scholarship — Undergraduate funding in Electronics Engineering (€17,296).
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2018
-      items:
-        - Academic Excellence Award for first-level Electronics Engineering student.
     - year: 2023
       items:
-        - Academic Excellence Award for ninhth-level Electronics Engineering student.
+        - Academic Excellence Award (9th-level Electronics Engineering, 2023-1)
+    - year: 2018
+      items:
+        - Academic Excellence Award (1st-level Electronics Engineering, 2018-1)
+        
+- title: Languages
+  type: html
+  contents: |
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; line-height: 1.5;">
+      <div style="width: 48%; margin-bottom: 0.8em;">
+        🇪🇸 <strong>Spanish</strong><br>
+        Native speaker
+      </div>
+      <div style="width: 48%; margin-bottom: 0.8em;">
+        🇬🇧 <strong>English</strong><br>
+        B2 – Professional Working Proficiency<br>
+        IELTS 5.5 (2017)
+      </div>
+    </div>
+
 
 - title: Academic Interests
   type: nested_list
@@ -92,15 +126,39 @@
     - title: Computer Vision
       items:
         - Out-of-Distribution Generalization
+        - Domain Generalization
         - Domain Adaptation
-        - Multimodal Learning
-    - title: Deep Learning
-      items:
         - Foundation Models
-        - Wildlife Monitoring
-        - Graph Neural Networks
+        - GNNs for Vision Tasks
 
-- title: Other Interests
-  type: list
+    - title: Graph Signal Processing
+      items:
+        - Time-Varying Graph Reconstruction
+    - title: Wildlife Monitoring
+      items:
+        - Camera Trap Image Analysis
+        - Bioacoustics and Audio-Based Detection
+        - Multimodal Animal Recognition
+
+- title: Professional Service
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Nature observation, photography, scientific outreach.
+    - title: Journal Reviewer
+      items:
+        - IEEE Transactions on Biomedical Engineering
+        - EURASIP Journal on Image and Video Processing
+    - title: Workshop Reviewer
+      items:
+        - NeurIPS 2025 Workshop on Neural and Probabilistic Graphical Models in Learning (NPGML)
+
+- title: Technical Skills
+  type: map
+  contents:
+    - name: Languages
+      value: Python, C/C++, MATLAB
+    - name: Libraries
+      value: PyTorch, PyG, OpenCV, HuggingFace Transformers
+    - name: Tools
+      value: Git, LaTeX, Inkscape, Weights & Biases (wandb)
+
+
