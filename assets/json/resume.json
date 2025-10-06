@@ -7,17 +7,10 @@
     "phone": "",
     "url": "https://www.linkedin.com/in/julian-david-santamaria-pabon/",
     "summary": "M.Sc. student and junior researcher focused on domain adaptation and out-of-distribution generalization for wildlife monitoring. Experienced in developing deep learning models with limited data and foundation model adaptation for computer vision tasks.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Medellín",
-      "countryCode": "CO",
-      "region": "Antioquia"
-    },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "Julia D. nSantamaria",
+        "username": "Julia D. Santamaria",
         "url": "https://scholar.google.com/citations?hl=es&user=GA5S2eAAAAAJ&view_op=list_works&gmla=ANZ5fUNq05MD__kUTV-cwR1G19E3dUB5wVhEbn8vh2tK01XTi75y3to3bowBkv92VDnaGIQ-za_LjqHMd2gP5alrjCbYL3cL0Bj7V6Xf"
       },
       {
