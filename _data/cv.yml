@@ -6,20 +6,21 @@
     - name: Email
       value: julian.santamaria@udea.edu.co
     - name: Website
-      value: [julian075.github.io](https://julian075.github.io)
+      value: >
+        [julian075.github.io](https://julian075.github.io)
 
 - title: Education
   type: time_table
   contents:
     - title: Master of Science in Engineering
       institution: Universidad de Antioquia, Medellín, Colombia
-      year: 2024 - 2025
+      year: 2024 – 2025
       description:
         - Thesis: *Integration of foundation models for automatic animal identification*.
         - Funded by Estudiante Instructor Scholarship (€20,450).
     - title: Bachelor of Science in Electronics Engineering
       institution: Universidad de Antioquia, Medellín, Colombia
-      year: 2018 - 2023
+      year: 2018 – 2023
       description:
         - GPA: 4.16 / 5.00
         - Thesis: *Audio vs. Visual Approach to Monitor the Critically Endangered Species Atlapetes blancae*.
@@ -62,9 +63,9 @@
   contents:
     - "**CATALOG: A Camera Trap Language-guided Contrastive Learning Model**  
       *Julian D. Santamaria, Claudia Isaza, Jhony H. Giraldo*  
-      IEEE/CVF WACV 2025 – Oral Presentation (Top ~8%)  
+      IEEE/CVF WACV 2025 — Oral Presentation (Top ~8%)  
       [[PDF]](https://openaccess.thecvf.com/content/WACV2025/papers/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.pdf)"
-    - "**Audio vs. Visual Approach to Monitor the Critically Endangered Species Atlapetes blancae**  
+    - "**Audio vs. Visual Approach to Monitor the Critically Endangered Species *Atlapetes blancae***  
       *Julian D. Santamaria, Jhony H. Giraldo, Angelica Diaz-Pulido, Claudia Isaza*  
       IARIA Congress on Frontiers in Science and Technology, 2024  
       [[PDF]](https://www.thinkmind.org/articles/iaria_congress_2024_2_90_50050.pdf)"
@@ -103,22 +104,21 @@
     - year: 2018
       items:
         - Academic Excellence Award (1st-level Electronics Engineering, 2018-1)
-        
+
 - title: Languages
   type: html
   contents: |
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; line-height: 1.5;">
-      <div style="width: 48%; margin-bottom: 0.8em;">
+    <div style="display:flex;flex-wrap:wrap;gap:1rem;line-height:1.4">
+      <div style="flex:1 1 280px">
         🇪🇸 <strong>Spanish</strong><br>
         Native speaker
       </div>
-      <div style="width: 48%; margin-bottom: 0.8em;">
+      <div style="flex:1 1 280px">
         🇬🇧 <strong>English</strong><br>
-        B2 – Professional Working Proficiency<br>
+        B2 — Professional Working Proficiency<br>
         IELTS 5.5 (2017)
       </div>
     </div>
-
 
 - title: Academic Interests
   type: nested_list
@@ -130,7 +130,6 @@
         - Domain Adaptation
         - Foundation Models
         - GNNs for Vision Tasks
-
     - title: Graph Signal Processing
       items:
         - Time-Varying Graph Reconstruction
@@ -160,5 +159,4 @@
       value: PyTorch, PyG, OpenCV, HuggingFace Transformers
     - name: Tools
       value: Git, LaTeX, Inkscape, Weights & Biases (wandb)
-
 
