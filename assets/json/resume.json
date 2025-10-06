@@ -242,11 +242,11 @@
   "service": [
     {
       "name": "Journal Reviewer",
-      "organization": "IEEE Transactions on Biomedical Engineering,URASIP Journal on Image and Video Processing".
+      "organization": "IEEE Transactions on Biomedical Engineering,URASIP Journal on Image and Video Processing"
     },
     {
       "name": "Workshop Reviewer",
-      "organization": "NeurIPS 2025 Workshop NPGML".
+      "organization": "NeurIPS 2025 Workshop NPGML"
     }
   ]
 }
