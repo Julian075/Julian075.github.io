@@ -43,8 +43,8 @@
       "position": "Intern",
       "url": "https://cinfonia.uniandes.edu.co/",
       "startDate": "2025-07-015",
-      "endDate": "",
-      "summary": "SPARROW: an AI tool to monitor and safeguard biodiversity in the world’s most untouched ecosystems.",
+      "endDate": "2025-08-015",
+      "summary": "Research on wildlife image segmentation.",
       "highlights": ["Supervised by PhD. Pablo Arbelaez"]
     },
     {
@@ -58,21 +58,39 @@
     },
     {
       "name": "SISTEMIC Research Group, Universidad de Antioquia",
-      "position": "Junior Researcher",
+      "position": "Researcher",
       "url": "",
-      "startDate": "2022-01-01",
+      "startDate": "2024-05-13",
       "endDate": "",
       "summary": "Research on adapting foundation models for wildlife species recognition, including endangered species monitoring.",
-      "highlights": ["Machine learning for monitoring Atlapetes blancae (2022–2023)", "Foundation model adaptation research (2024–Present)"]
+      "highlights": ["Integration of foundation model for domain generalization for wildlife monitoring"]
+    },,
+    {
+      "name": "SISTEMIC Research Group, Universidad de Antioquia",
+      "position": "Junior Researcher",
+      "url": "",
+      "startDate": "2021-04-05",
+      "endDate": "2023-24-10",
+      "summary": "Identification of the transformation in the Colombian forest based on acoustic analysis.",
+      "highlights": ["Machine learning for monitoring Atlapetes blancae"]
     },
     {
       "name": "Universidad de Antioquia",
       "position": "Teaching Assistant",
       "url": "https://udea.edu.co",
-      "startDate": "2021-01-01",
+      "startDate": "2021-03-02",
       "endDate": "",
-      "summary": "Academic support for undergraduate courses in digital electronics and computer science.",
-      "highlights": ["Digital Electronics Fundamentals (2021–2023)", "Computer Science I (2024–Present)"]
+      "summary": "Academic support for undergraduate course of computer science.",
+      "highlights": ["Computer Science I"]
+    },
+    {
+      "name": "Universidad de Antioquia",
+      "position": "Teaching Assistant",
+      "url": "https://udea.edu.co",
+      "startDate": "2021-03-02",
+      "endDate": "2023-30-12",
+      "summary": "Academic support for undergraduate course of digital electronics.",
+      "highlights": ["Digital Electronics Fundamentals"]
     }
   ],
   "education": [
@@ -112,7 +130,7 @@
       "date": "2023-06-01",
       "awarder": "Universidad de Antioquia",
       "url": "",
-      "summary": "Highest-performing eighth-level student in the Electronics Engineering program."
+      "summary": "Highest-performing ninth-level student in the Electronics Engineering program."
     }
   ],
   "certificates": [],
@@ -137,19 +155,25 @@
       "name": "Computer Vision",
       "level": "Advanced",
       "icon": "",
-      "keywords": ["Domain Adaptation", "Wildlife Monitoring", "Foundation Models", "Contrastive Learning", "Multimodal Learning"]
+      "keywords": ["Domain generalization","Domain Adaptation", "Wildlife Monitoring", "Foundation Models", "Contrastive Learning", "Multimodal Learning"]
     },
     {
       "name": "Programming",
-      "level": "Proficient",
+      "level": "Advanced",
       "icon": "",
       "keywords": ["Python", "Matlab", "C/C++"]
     },
     {
-      "name": "Frameworks & Tools",
+      "name": "Relevant Libraries",
       "level": "Advanced",
       "icon": "",
-      "keywords": ["PyTorch", "OpenCV", "Transformers (HuggingFace)", "Weights & Biases", "LaTeX"]
+      "keywords": ["PyTorch, PyTorch Geometric, OpenCV, Transformers (HuggingFace)", "LaTeX"]
+    },
+    {
+      "name": "Tools & Frameworks",
+      "level": "Advanced",
+      "icon": "",
+      "keywords": ["Weights & Biases", "LaTeX","Inkscape","Git"]
     }
   ],
   "languages": [
@@ -168,22 +192,13 @@
     {
       "name": "Research",
       "icon": "",
-      "keywords": ["Out-of-Distribution Generalization", "Domain Adaptation", "Multimodal Learning", "Graph Neural Networks"]
+      "keywords": ["Out-of-Distribution Generalization", "Domain Adaptation", "Multimodal Learning", "Graph Neural Networks", "Graph Signal Procesing"]
     }
   ],
   "references": [],
-  "projects": [
-    {
-      "name": "WildIng: A Wildlife Image Invariant Representation Model",
-      "summary": "Model under review for geographical domain shift in wildlife imagery.",
-      "highlights": ["Submitted to IJCV"],
-      "startDate": "2024-12-01",
-      "endDate": "",
-      "url": ""
-    }
-  ],
+  "projects": [ ],
   "volunteer": [],
-  "publicationsUnderReview": [
+  "publications Under Review":[
     {
       "name": "WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift",
       "publisher": "Submitted to International Journal of Computer Vision (IJCV)",
@@ -226,8 +241,12 @@
   ],
   "service": [
     {
-      "name": "Reviewer",
-      "organization": "EURASIP Journal on Image and Video Processing"
+      "name": "Journal Reviewer",
+      "organization": "IEEE Transactions on Biomedical Engineering,URASIP Journal on Image and Video Processing".
+    },
+    {
+      "name": "Workshop Reviewer",
+      "organization": "NeurIPS 2025 Workshop NPGML".
     }
   ]
 }
