@@ -31,6 +31,24 @@
     ]
   },
   "work": [
+  {
+      "name": "Computer Vision Center, Spain",
+      "position": "Intern",
+      "url": "https://www.cvc.uab.es/",
+      "startDate": "2026-01-29",
+      "endDate": "Present",
+      "summary": "Research on diffusion models and vision science.",
+      "highlights": ["Supervised by PhD. Alexandra Gomez-Villa"]
+    },
+    {
+      "name": "Universidad de Valencia",
+      "position": "Researcher",
+      "url": "https://www.uv.es/",
+      "startDate": "2026-01-29",
+      "endDate": "Present",
+      "summary": "Research on diffusion models and vision science.",
+      "highlights": ["Supervised by PhD. Jesus Malo"]
+    },
     {
       "name": "CinfonIA Research Group, Universidad de los Andes",
       "position": "Intern",

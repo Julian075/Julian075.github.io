@@ -4,7 +4,7 @@ permalink: /Publications/
 title: Publications
 description: An up-to-date list is available on [Google Scholar](https://scholar.google.com/citations?user=GA5S2eAAAAAJ&hl=es).
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
