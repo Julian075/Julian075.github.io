@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "An up-to-date list is available on [Google Scholar](https://scholar.google.com/citations?user=GA5S2eAAAAAJ&amp;hl=es).",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Publications/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "An up-to-date list is available on [Google Scholar](https://scholar.google.com/citations?user=GA5S2eAAAAAJ&amp;hl=es).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Publications/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
@@ -411,8 +411,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-catalog-a-camera-trap-language-guided-contrastive-learning-model-has-been-selected-as-an-oral-presentation-top-8-at-the-ieee-cvf-winter-conference-on-applications-of-computer-vision-wacv-2025",
           title: 'Our paper “CATALOG: A Camera Trap Language-guided Contrastive Learning Model” has been selected...',
           description: "",
-          section: "News",},{id: "news-i-have-recently-started-as-a-visiting-research-scholar-at-the-universidad-de-los-andes-working-under-the-supervision-of-dr-pablo-arbeláez-project-wildlife-segmentation-bogotá-colombia",
-          title: 'I have recently started as a Visiting Research Scholar at the Universidad de...',
+          section: "News",},{id: "news-excited-to-begin-a-research-internship-at-the-computer-vision-center-cvc-under-the-supervision-of-dr-alexandra-gomez-villa-over-the-coming-months-i-will-work-on-diffusion-based-approaches-for-real-world-vision-problems-and-on-advancing-the-scientific-understanding-of-visual-perception-barcelona-spain",
+          title: 'Excited to begin a research internship at the Computer Vision Center (CVC) 🇪🇸...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
