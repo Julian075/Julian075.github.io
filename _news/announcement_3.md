@@ -1,7 +1,7 @@
 ---
 layout: post
-title: WACV 2025 Oral Presentation!
-date: 2025-02-28
+title: Wilding
+date: 2026-03-09
 inline: true
 related_posts: false
 ---
