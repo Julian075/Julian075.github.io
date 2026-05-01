@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 18-333</p>
-    <p>Cl. 67 #53-108</p>
-    <p>050010 Medellín, Colombia</p>
+    <p>Edifici O, Campus</p>
+    <p>08193 Barcelona, Spain</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +25,7 @@ announcements:
       content: "Our paper *CATALOG: A Camera Trap Language-Guided Contrastive Learning Model* was accepted as an **oral presentation** at WACV 2025 (top 8%)."
       link: https://openaccess.thecvf.com/content/WACV2025/papers/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.pdf
 
-latest_posts:you 
+latest_posts: 
   enabled: false
   scrollable: true
   limit: 3
