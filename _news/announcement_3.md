@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Starting Research Internship at CVC
-date: 2026-01-29
+title: WACV 2025 Oral Presentation!
+date: 2025-02-28
 inline: true
 related_posts: false
 ---
-
-Excited to begin a research internship at the Computer Vision Center (CVC) 🇪🇸 under the supervision of Dr. Alexandra Gomez-Villa.
-Over the coming months, I will work on diffusion-based approaches for real-world vision problems and on advancing the scientific understanding of visual perception.
-
-📍 Barcelona, Spain 
+Our paper “[WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift](https://doi.org/10.1007/s11263-026-02739-w)” is now published in the International Journal of Computer Vision (IJCV).
+This work is based on a large part of my master’s research. In the paper, we study the problem of geographical domain shift, where models trained in one region fail to generalize to others.

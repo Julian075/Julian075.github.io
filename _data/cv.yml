@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Julian D. Santamaria
+      value: Julian D. Santamaria P
     - name: Email
-      value: julian.santamaria@udea.edu.co
+      value: julian.santamaria@cvc.uab.cat
     - name: Website
       value: >
         [julian075.github.io](https://julian075.github.io)
@@ -12,25 +12,38 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Computer Science
+      institution: Computer Vision Center, Universitat Autònoma de Barcelona, Spain
+      year: 2026 – Present
+      description:
+        - Research on color understanding in multimodal models.
+        - Supervised by Dr. Alexandra Gomez-Villa.
     - title: Master of Science in Engineering
       institution: Universidad de Antioquia, Medellín, Colombia
       year: 2024 – 2025
       description:
+        - GPA: 4.9 / 5.0
         - Thesis: "*Integration of foundation models for automatic animal identification*."
         - Funded by Estudiante Instructor Scholarship (€20,450).
     - title: Bachelor of Science in Electronics Engineering
       institution: Universidad de Antioquia, Medellín, Colombia
       year: 2018 – 2023
       description:
-        - GPA: 4.16 / 5.00
-        - Thesis: "*Audio vs. Visual Approach to Monitor the Critically Endangered Species Atlapetes blancae*."
+        - GPA: 4.16 / 5.0
+        - Thesis: "*Audio vs. Visual Approach to Monitor the Critically Endangered Species Atlapetes blancae: Developing Deep Learning Models with Limited Data*."
         - Focus on embedded systems, signal processing, and machine learning.
 
 - title: Experience
   type: time_table
   contents:
+    - title: Researcher
+      institution: Universidad de Valencia, Spain
+      year: Jan 2026 – Present
+      description:
+        - Research on generative models and vision science.
+        - Supervised by Prof. Jesus Malo.
     - title: Visiting Research Scholar
-      institution: CinfonIA, Universidad de los Andes, Colombia
+      institution: CinfonIA Research Group, Universidad de los Andes, Colombia
       year: Jul 2025 – Aug 2025
       description:
         - Research on wildlife image segmentation.
@@ -42,40 +55,41 @@
         - Research on domain adaptation in computer vision for biodiversity monitoring.
         - Supervised by Dr. Jhony H. Giraldo.
     - title: Researcher
-      institution: SISTEMIC Research Group, Universidad de Antioquia
-      year: May 2024 – Present
+      institution: SISTEMIC Research Group, Universidad de Antioquia, Colombia
+      year: May 2024 – Nov 2025
       description:
         - Identification of the transformation in the Colombian forest based on acoustic analysis.
     - title: Junior Researcher
-      institution: SISTEMIC Research Group, Universidad de Antioquia
+      institution: SISTEMIC Research Group, Universidad de Antioquia, Colombia
       year: Apr 2021 – Nov 2023
       description:
         - Identification of the transformation in the Colombian forest based on acoustic analysis.
     - title: Teaching Assistant
-      institution: Universidad de Antioquia
-      year: 2021 – Present
+      institution: Universidad de Antioquia, Medellín, Colombia
+      year: 2021 – 2025
       description:
-        - Support for “Computer Science I” (2024–Present).
-        - Tutoring for “Digital Electronics Fundamentals” (2021–2023).
+        - Support for "Computer Science I" (Feb 2024 – Dec 2025).
+        - Tutoring for "Fundamentals of Digital Electronics" (Mar 2021 – Dec 2023).
 
 - title: Publications
   type: list
   contents:
+    - "**WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift**  
+      *Julian D. Santamaria, Claudia Isaza, Jhony H. Giraldo*  
+      International Journal of Computer Vision (IJCV), 2026"
     - "**CATALOG: A Camera Trap Language-guided Contrastive Learning Model**  
       *Julian D. Santamaria, Claudia Isaza, Jhony H. Giraldo*  
       IEEE/CVF WACV 2025 — Oral Presentation (Top ~8%)  
       [[PDF]](https://openaccess.thecvf.com/content/WACV2025/papers/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.pdf)"
-    - "**Audio vs. Visual Approach to Monitor the Critically Endangered Species *Atlapetes blancae***  
-      *Julian D. Santamaria, Jhony H. Giraldo, Angelica Diaz-Pulido, Claudia Isaza*  
-      IARIA Congress on Frontiers in Science and Technology, 2024  
+    - "**Audio vs. Visual Approach to Monitor the Critically Endangered Species *Atlapetes blancae*: Developing Deep Learning Models with Limited Data**  
+      *Julian D. Santamaria P, Jhony H. Giraldo, Angelica Diaz-Pulido, Claudia Isaza*  
+      IARIA Congress on Frontiers in Science, Technology, Services, and Applications, 2024  
       [[PDF]](https://www.thinkmind.org/articles/iaria_congress_2024_2_90_50050.pdf)"
-    - "**WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift**  
-      Submitted to the International Journal of Computer Vision (IJCV)"
 
 - title: Poster Presentations
   type: list
   contents:
-    - "*Audio and Video Analysis for Monitoring Atlapetes blancae*  
+    - "**Audio and Video Analysis using Machine Learning for Monitoring the critically endangered species *Atlapetes blancae***  
       ICCV 2023 — LatinX in AI Workshop"
 
 - title: Grants and Fellowships
@@ -83,27 +97,27 @@
   contents:
     - year: 2025
       items:
-        - NVIDIA Academic Grant — 10,000 A100 GPU-hours for research on camera trap image recognition.
+        - NVIDIA Academic Grant — 10,000 A100 GPU-hours for research on bridging foundation models and camera trap image recognition (Jan 2025 – Jun 2025).
     - year: 2024
       items:
-        - Estudiante Instructor Scholarship — Funding for MSc thesis on animal identification using foundation models (€20,450).
+        - Estudiante Instructor Scholarship — Funding for MSc in Engineering thesis on foundation models for animal identification (€20,450).
     - year: 2023
       items:
         - CV Foundation Travel Grant — €1,000 for ICCV 2023.
-        - LatinX in AI Scholarship — €400 for ICCV 2023 workshop.
+        - LatinX in AI Travel Scholarship — €400 for ICCV 2023 workshop presentation.
     - year: 2018
       items:
-        - Colombian Government Scholarship — Undergraduate funding in Electronics Engineering (€17,296).
+        - Colombian Government Undergraduate Scholarship — Funding for Electronics Engineering studies (€17,296, 2018–2023).
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
       items:
-        - Academic Excellence Award (9th-level Electronics Engineering, 2023-1)
+        - Academic Excellence Award — Highest-performing 9th-level student in Electronics Engineering (Semester 2023-1)
     - year: 2018
       items:
-        - Academic Excellence Award (1st-level Electronics Engineering, 2018-1)
+        - Academic Excellence Award — Highest-performing 1st-level student in Electronics Engineering (Semester 2018-1)
 
 - title: Languages
   type: html
@@ -116,28 +130,25 @@
       <div style="flex:1 1 280px">
         🇬🇧 <strong>English</strong><br>
         B2 — Professional Working Proficiency<br>
-        IELTS 5.5 (2017)
+        IELTS 5.5/9 (2017)
       </div>
     </div>
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Computer Vision
+    - title: Computer Vision & Machine Learning
       items:
-        - Out-of-Distribution Generalization
-        - Domain Generalization
-        - Domain Adaptation
+        - Domain Generalization & Domain Adaptation
+        - Multimodal Learning
         - Foundation Models
-        - GNNs for Vision Tasks
-    - title: Graph Signal Processing
+        - Wildlife Monitoring
+        - Graph Neural Networks
+    - title: Vision Science
       items:
-        - Time-Varying Graph Reconstruction
-    - title: Wildlife Monitoring
-      items:
-        - Camera Trap Image Analysis
-        - Bioacoustics and Audio-Based Detection
-        - Multimodal Animal Recognition
+        - Color Understanding in Multimodal Models
+        - Generative Models
+        - Visual Perception
 
 - title: Professional Service
   type: nested_list
@@ -146,6 +157,9 @@
       items:
         - IEEE Transactions on Biomedical Engineering
         - EURASIP Journal on Image and Video Processing
+    - title: Conference Reviewer
+      items:
+        - ECCV 2026
     - title: Workshop Reviewer
       items:
         - NeurIPS 2025 Workshop on Neural and Probabilistic Graphical Models in Learning (NPGML)
@@ -156,7 +170,6 @@
     - name: Languages
       value: Python, C/C++, MATLAB
     - name: Libraries
-      value: PyTorch, PyG, OpenCV, HuggingFace Transformers
+      value: PyTorch, PyTorch Geometric, OpenCV, Transformers (HuggingFace)
     - name: Tools
       value: Git, LaTeX, Inkscape, Weights & Biases (wandb)
-

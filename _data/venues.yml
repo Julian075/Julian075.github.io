@@ -1,4 +1,7 @@
 contents:
+  - "IJCV":
+      url: https://link.springer.com/journal/11263
+      color: "#2754F5"
   - "WACV":
       url: https://wacv2025.thecvf.com/
       color: "#e95420"
