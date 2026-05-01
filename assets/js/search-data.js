@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -405,14 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-excited-to-begin-a-research-internship-at-télécom-paris-part-of-the-institut-polytechnique-de-paris-under-the-supervision-of-phd-jhony-h-giraldo-over-the-next-six-months-i-will-be-working-on-domain-generalization-for-computer-vision-models-applied-to-biodiversity-monitoring-paris-france",
-          title: 'Excited to begin a research internship at Télécom Paris, part of the Institut...',
-          description: "",
-          section: "News",},{id: "news-our-paper-catalog-a-camera-trap-language-guided-contrastive-learning-model-has-been-selected-as-an-oral-presentation-top-8-at-the-ieee-cvf-winter-conference-on-applications-of-computer-vision-wacv-2025",
+            },},{id: "news-our-paper-catalog-a-camera-trap-language-guided-contrastive-learning-model-has-been-selected-as-an-oral-presentation-top-8-at-the-ieee-cvf-winter-conference-on-applications-of-computer-vision-wacv-2025",
           title: 'Our paper “CATALOG: A Camera Trap Language-guided Contrastive Learning Model” has been selected...',
           description: "",
-          section: "News",},{id: "news-excited-to-begin-a-research-internship-at-the-computer-vision-center-cvc-under-the-supervision-of-dr-alexandra-gomez-villa-over-the-coming-months-i-will-work-on-diffusion-based-approaches-for-real-world-vision-problems-and-on-advancing-the-scientific-understanding-of-visual-perception-barcelona-spain",
-          title: 'Excited to begin a research internship at the Computer Vision Center (CVC) 🇪🇸...',
+          section: "News",},{id: "news-our-paper-wilding-a-wildlife-image-invariant-representation-model-for-geographical-domain-shift-is-now-published-in-the-international-journal-of-computer-vision-ijcv-this-work-is-based-on-a-large-part-of-my-master-s-research-in-the-paper-we-study-the-problem-of-geographical-domain-shift-where-models-trained-in-one-region-fail-to-generalize-to-others",
+          title: 'Our paper “WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift”...',
+          description: "",
+          section: "News",},{id: "news-excited-to-begin-my-phd-in-computer-science-at-the-computer-vision-center-cvc-under-the-supervision-of-phd-alexandra-gomez-villa-my-research-will-focus-on-color-understanding-in-multimodal-models-exploring-how-to-advance-the-scientific-understanding-of-color-perception-barcelona-spain-layout-post-title-starting-research-internship-at-télécom-paris-date-2025-01-01-inline-true-related-posts-false-excited-to-begin-a-research-internship-at-télécom-paris-part-of-the-institut-polytechnique-de-paris-under-the-supervision-of-phd-jhony-h-giraldo-over-the-next-six-months-i-will-be-working-on-domain-generalization-for-computer-vision-models-applied-to-biodiversity-monitoring-paris-france",
+          title: 'Excited to begin my PhD in Computer Science at the Computer Vision Center...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -485,7 +485,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%75%6C%69%61%6E.%73%61%6E%74%61%6D%61%72%69%61@%75%64%65%61.%65%64%75.%63%6F", "_blank");
+          window.open("mailto:%6A%75%6C%69%61%6E.%73%61%6E%74%61%6D%61%72%69%61@%63%76%63.%75%61%62.%63%61%74", "_blank");
         },
       },{
         id: 'social-rss',
