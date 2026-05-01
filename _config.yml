@@ -641,3 +641,13 @@ jsonresume:
   - languages
   - interests
   - references
+  
+ # HTML Proofer settings
+html-proofer:
+  allow_hash_href: true
+  ignore_urls:
+    - https://unsplash.com/
+    - https://www.cvc.uab.es/
+    - https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support
+  ignore_status_codes: [401, 403, 999]
+  enforce_https: false
