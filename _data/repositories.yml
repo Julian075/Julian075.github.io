@@ -3,5 +3,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - hyping111/DriftScope
   - Julian075/CATALOG
   - Julian075/BlancaeNet
+
