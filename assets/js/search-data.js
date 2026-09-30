@@ -416,16 +416,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-catalog-a-camera-trap-language-guided-contrastive-learning-model-has-been-selected-as-an-oral-presentation-top-8-at-the-ieee-cvf-winter-conference-on-applications-of-computer-vision-wacv-2025",
-          title: 'Our paper “CATALOG: A Camera Trap Language-guided Contrastive Learning Model” has been selected...',
-          description: "",
-          section: "News",},{id: "news-excited-to-begin-my-phd-in-computer-science-at-the-computer-vision-center-cvc-under-the-supervision-of-phd-alexandra-gomez-villa-my-research-will-focus-on-color-understanding-in-multimodal-models-exploring-how-to-advance-the-scientific-understanding-of-color-perception-barcelona-spain",
+            },},{id: "news-excited-to-begin-my-phd-in-computer-science-at-the-computer-vision-center-cvc-under-the-supervision-of-phd-alexandra-gomez-villa-my-research-will-focus-on-color-understanding-in-multimodal-models-exploring-how-to-advance-the-scientific-understanding-of-color-perception-barcelona-spain",
           title: 'Excited to begin my PhD in Computer Science at the Computer Vision Center...',
           description: "",
           section: "News",},{id: "news-our-paper-wilding-a-wildlife-image-invariant-representation-model-for-geographical-domain-shift-is-now-published-in-the-international-journal-of-computer-vision-ijcv-this-work-is-based-on-a-large-part-of-my-master-s-research-in-the-paper-we-study-the-problem-of-geographical-domain-shift-where-models-trained-in-one-region-fail-to-generalize-to-others",
           title: 'Our paper “WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift”...',
           description: "",
-          section: "News",},{id: "news-our-paper-driftscope-measuring-the-hidden-effects-of-diffusion-model-adaptation-has-been-accepted-at-the-european-conference-on-computer-vision-eccv-2026-check-out-the-arxiv-preprint-and-our-blog-post",
+          section: "News",},{id: "news-our-paper-driftscope-measuring-the-hidden-effects-of-diffusion-model-adaptation-has-been-accepted-at-the-european-conference-on-computer-vision-eccv-2026-check-out-the-project-page-and-the-arxiv-preprint",
           title: 'Our paper “DriftScope: Measuring The Hidden Effects of Diffusion Model Adaptation” has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
