@@ -149,6 +149,13 @@
   "certificates": [],
   "publications": [
     {
+      "name": "DriftScope: Measuring The Hidden Effects of Diffusion Model Adaptation",
+      "publisher": "European Conference on Computer Vision (ECCV), 2026",
+      "releaseDate": "2026-07-01",
+      "url": "https://arxiv.org/abs/2607.00183",
+      "summary": "Investigates hidden concept drift in adapted diffusion models and introduces DriftScope, a prompt-level diagnostic tool to attribute concept drift without ground truth data."
+    },
+    {
       "name": "WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift",
       "publisher": "International Journal of Computer Vision (IJCV), 2026",
       "releaseDate": "2026-01-01",
