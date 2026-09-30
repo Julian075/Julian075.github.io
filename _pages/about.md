@@ -23,11 +23,7 @@ announcements:
     - date: 2026-07-02
       title: "🎉 ECCV 2026 paper accepted!"
       content: "Our paper *DriftScope: Measuring The Hidden Effects of Diffusion Model Adaptation* was accepted at ECCV 2026."
-      link: https://arxiv.org/abs/2607.00183
-    - date: 2025-02-28
-      title: "🎤 WACV 2025 oral presentation accepted!"
-      content: "Our paper *CATALOG: A Camera Trap Language-Guided Contrastive Learning Model* was accepted as an **oral presentation** at WACV 2025 (top 8%)."
-      link: https://openaccess.thecvf.com/content/WACV2025/papers/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.pdf
+      link: https://hyping111.github.io/DriftScope/
 
 latest_posts: 
   enabled: true

@@ -13,6 +13,7 @@ I am thrilled to share that our paper **"DriftScope: Measuring The Hidden Effect
 
 - **ArXiv:** [arXiv:2607.00183](https://arxiv.org/abs/2607.00183)
 - **PDF:** [Download PDF](https://arxiv.org/pdf/2607.00183)
+- **Website:** [Project Page](https://hyping111.github.io/DriftScope/)
 - **Code:** [GitHub Repository](https://github.com/hyping111/DriftScope)
 - **Authors:** Héctor Laria, Yiping Han, **Julian D. Santamaria**, Kai Wang, Bogdan Raducanu, Joost van de Weijer, and Alexandra Gomez-Villa
 
