@@ -26,7 +26,7 @@ announcements:
       link: https://hyping111.github.io/DriftScope/
 
 latest_posts: 
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 1
 ---
