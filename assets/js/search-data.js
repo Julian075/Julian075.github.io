@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/grants/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-driftscope-accepted-at-eccv-2026",
+        
+          title: "DriftScope Accepted at ECCV 2026!",
+        
+        description: "Our paper &#39;DriftScope: Measuring The Hidden Effects of Diffusion Model Adaptation&#39; has been accepted to ECCV 2026!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/driftscope-eccv-2026/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -413,6 +424,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-wilding-a-wildlife-image-invariant-representation-model-for-geographical-domain-shift-is-now-published-in-the-international-journal-of-computer-vision-ijcv-this-work-is-based-on-a-large-part-of-my-master-s-research-in-the-paper-we-study-the-problem-of-geographical-domain-shift-where-models-trained-in-one-region-fail-to-generalize-to-others",
           title: 'Our paper “WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift”...',
+          description: "",
+          section: "News",},{id: "news-our-paper-driftscope-measuring-the-hidden-effects-of-diffusion-model-adaptation-has-been-accepted-at-the-european-conference-on-computer-vision-eccv-2026-check-out-the-arxiv-preprint-and-our-blog-post",
+          title: 'Our paper “DriftScope: Measuring The Hidden Effects of Diffusion Model Adaptation” has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
