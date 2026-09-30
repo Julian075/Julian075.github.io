@@ -74,6 +74,10 @@
 - title: Publications
   type: list
   contents:
+    - "**DriftScope: Measuring The Hidden Effects of Diffusion Model Adaptation**  
+      *Héctor Laria, Yiping Han, Julian D. Santamaria, Kai Wang, Bogdan Raducanu, Joost van de Weijer, Alexandra Gomez-Villa*  
+      European Conference on Computer Vision (ECCV), 2026  
+      [[arXiv]](https://arxiv.org/abs/2607.00183) [[PDF]](https://arxiv.org/pdf/2607.00183)"
     - "**WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift**  
       *Julian D. Santamaria, Claudia Isaza, Jhony H. Giraldo*  
       International Journal of Computer Vision (IJCV), 2026"
