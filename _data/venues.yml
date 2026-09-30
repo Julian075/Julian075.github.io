@@ -8,3 +8,7 @@ contents:
   - "IARIA":
       url: https://www.iaria.org/conferences.html
       color: "#008080"
+  - "ECCV":
+      url: https://eccv.ecva.net/
+      color: "#007A3D"
+

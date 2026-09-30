@@ -12,3 +12,23 @@ isaza:
       - "Claudia"
       - "C. V."
     url: "https://scholar.google.com/citations?user=YIjG09oAAAAJ&hl=es"
+
+gomez-villa:
+  - firstname:
+      - "Alexandra"
+      - "A."
+    url: "https://sites.google.com/view/alex-gomez-villa/home?authuser=1"
+
+laria:
+  - firstname:
+      - "Héctor"
+      - "Hector"
+      - "H."
+    url: "https://scholar.google.com/citations?user=f1zH0e8AAAAJ&hl=en"
+
+van de weijer:
+  - firstname:
+      - "Joost"
+      - "J."
+    url: "https://scholar.google.com/citations?user=GswQsyoAAAAJ&hl=en"
+

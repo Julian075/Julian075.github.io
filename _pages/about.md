@@ -20,15 +20,19 @@ announcements:
   scrollable: true
   limit: 5
   items:
+    - date: 2026-07-02
+      title: "🎉 ECCV 2026 paper accepted!"
+      content: "Our paper *DriftScope: Measuring The Hidden Effects of Diffusion Model Adaptation* was accepted at ECCV 2026."
+      link: https://arxiv.org/abs/2607.00183
     - date: 2025-02-28
       title: "🎤 WACV 2025 oral presentation accepted!"
       content: "Our paper *CATALOG: A Camera Trap Language-Guided Contrastive Learning Model* was accepted as an **oral presentation** at WACV 2025 (top 8%)."
       link: https://openaccess.thecvf.com/content/WACV2025/papers/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.pdf
 
 latest_posts: 
-  enabled: false
+  enabled: true
   scrollable: true
-  limit: 3
+  limit: 1
 ---
 
 I am a PhD student in Computer Science at the [Computer Vision Center (CVC)](https://www.cvc.uab.es/), [Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467950436.html), under the supervision of [Alexandra Gomez-Villa](https://sites.google.com/view/alex-gomez-villa/home?authuser=1), where I focus on color understanding in multimodal models. I also collaborate with [Jesus Malo](https://scholar.google.com/citations?user=0pgrklEAAAAJ&hl=es&oi=ao) at [Universidad de Valencia](https://www.uv.es/) on generative models and vision science.
