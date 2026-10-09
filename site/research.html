@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Research · Julian D. Santamaria</title>
+    <meta name="description" content="Research by Julian D. Santamaria: color understanding in multimodal models, generative models, and wildlife monitoring under domain shift." />
+    <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@500;600;700;800&amp;family=Literata:opsz,wght@7..72,400;7..72,500&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="./"><span class="brand-mark" aria-hidden="true"></span>J. D. Santamaria</a>
+        <nav class="nav" aria-label="Main">
+          <a href="./">Home</a>
+          <a href="research.html" aria-current="page">Research</a>
+          <a href="publications.html">Publications</a>
+          <a href="cv.html">CV</a>
+          <a href="awards.html">Awards &amp; Service</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="page-head">
+        <h1>Research</h1>
+        <div class="spectrum thin" aria-hidden="true"></div>
+      </section>
+
+      <section class="section">
+        <div class="topic topic-1">
+          <span class="mono">Current · PhD at CVC</span>
+          <h3>Color understanding in multimodal models</h3>
+          <p>
+            How vision-language and generative models represent, name and reproduce color, and how this compares with
+            human color perception. Supervised by
+            <a href="https://sites.google.com/view/alex-gomez-villa/home">Alexandra Gomez-Villa</a> at the
+            <a href="https://www.cvc.uab.es/">Computer Vision Center</a>.
+          </p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="topic topic-2">
+          <span class="mono">Current · with Universidad de Valencia</span>
+          <h3>Generative models and vision science</h3>
+          <p>
+            What changes inside a diffusion model when it is adapted, and how to measure it. In collaboration with
+            <a href="https://scholar.google.com/citations?user=0pgrklEAAAAJ">Jesus Malo</a>.
+          </p>
+        </div>
+        <div>
+          <article class="project">
+            <div class="project-meta"><span class="chip">ECCV 2026</span></div>
+            <h3>DriftScope: Measuring the Hidden Effects of Diffusion Model Adaptation</h3>
+            <p>
+              Fine-tuning or unlearning a text-to-image diffusion model also damages concepts it was never meant to
+              touch, and standard metrics such as FID and KID do not show it. DriftScope takes two model checkpoints and
+              returns a ranked list of the tokens whose visual concepts shifted the most, without real data or access to
+              model internals.
+            </p>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2607.00183">[paper]</a>
+              <a href="https://github.com/hyping111/DriftScope">[code]</a>
+              <a href="https://hyping111.github.io/DriftScope/">[project]</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="topic topic-3">
+          <span class="mono">M.Sc. research · Universidad de Antioquia</span>
+          <h3>Wildlife monitoring and domain shift</h3>
+          <p>
+            Camera traps and acoustic sensors produce large amounts of data for biodiversity monitoring, but models
+            trained in one place often fail in another. My master's work studied how foundation models and
+            multimodal learning can close that gap. It included research stays at
+            <a href="https://www.telecom-paris.fr">Télécom Paris</a> (domain adaptation) and
+            <a href="https://cinfonia.uniandes.edu.co/">Universidad de los Andes</a> (wildlife image segmentation).
+          </p>
+        </div>
+        <div>
+          <article class="project">
+            <div class="project-meta"><span class="chip journal">IJCV 2026</span></div>
+            <h3>WildIng: A Wildlife Image Invariant Representation Model for Geographical Domain Shift</h3>
+            <p>
+              Models trained on camera-trap images from one region lose accuracy when deployed in another. WildIng
+              learns representations that stay stable across geographical domains.
+            </p>
+            <div class="pub-links">
+              <a href="https://link.springer.com/article/10.1007/s11263-026-02739-w">[paper]</a>
+            </div>
+          </article>
+          <article class="project">
+            <div class="project-meta"><span class="chip">WACV 2025</span><span class="pub-note">Oral presentation</span></div>
+            <h3>CATALOG: A Camera Trap Language-Guided Contrastive Learning Model</h3>
+            <p>
+              A contrastive model that uses text descriptions from foundation models to guide camera-trap image
+              recognition, so it transfers better to new camera locations.
+            </p>
+            <div class="pub-links">
+              <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.pdf">[paper]</a>
+              <a href="https://github.com/Julian075/CATALOG">[code]</a>
+            </div>
+          </article>
+          <article class="project">
+            <div class="project-meta"><span class="chip">IARIA 2024</span></div>
+            <h3>Audio vs. visual monitoring of <em>Atlapetes blancae</em></h3>
+            <p>
+              A comparison of audio and image models for monitoring the critically endangered Antioquia brushfinch
+              with very little labeled data. This was my undergraduate thesis.
+            </p>
+            <div class="pub-links">
+              <a href="https://www.thinkmind.org/articles/iaria_congress_2024_2_90_50050.pdf">[paper]</a>
+              <a href="https://github.com/Julian075/BlancaeNet">[code]</a>
+            </div>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <div class="spectrum thin" aria-hidden="true"></div>
+        <div class="footer-row">
+          <span>© <span data-year>2026</span> Julian D. Santamaria · Barcelona</span>
+          <nav aria-label="Profiles">
+            <a href="https://scholar.google.com/citations?user=GA5S2eAAAAAJ">Scholar</a>
+            <a href="https://github.com/Julian075">GitHub</a>
+            <a href="https://orcid.org/0009-0007-7287-5761">ORCID</a>
+            <a href="https://www.researchgate.net/profile/Julian-Santamaria-5">ResearchGate</a>
+            <a href="https://www.linkedin.com/in/julian-david-santamaria-pabon/">LinkedIn</a>
+          </nav>
+        </div>
+      </div>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
